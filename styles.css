@@ -1,4 +1,22 @@
 .pnav{
     padding: 0 25px;
+    padding-top: 10px;
+}
+.colornav{
+    background-color: rgb(158, 133, 175);
+    ;
+}
+.grid{
+    display: grid;
+    grid-template-rows: max-content;
     
 }
+.margincajitaimg{
+    margin-left: 700px;
+}
+.marginParrafo{
+    margin-right: 500px;
+    float: left;
+    text-align: justify;
+}
+.p{color: white;}
