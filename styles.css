@@ -12,11 +12,13 @@
     
 }
 .margincajitaimg{
-    margin-left: 700px;
+    margin-left: 55% ;
+    margin-right: 6%;
+    
 }
 .marginParrafo{
-    margin-right: 500px;
-    float: left;
+    margin-right: 55%;
     text-align: justify;
+    float: left;
 }
 .p{color: white;}
