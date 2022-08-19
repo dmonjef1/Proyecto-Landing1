@@ -16,9 +16,20 @@
     margin-right: 6%;
     
 }
-.marginParrafo{
+.marginParrafo1{
     margin-right: 55%;
     text-align: justify;
     float: left;
 }
-.p{color: white;}
+.marginParrafo2{
+    margin-right: 15%;
+    margin-left: 15%;
+    text-align: justify;
+    float: right;
+}
+.tamañoletralogo{
+    font-size: 12px;
+    letter-spacing: 12.5px;
+    font-weight: bold;
+    font-family: sans-serif ;
+}
