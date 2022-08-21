@@ -9,22 +9,33 @@
 .grid{
     display: grid;
     grid-template-rows: max-content;
+   
     
+}
+.cajitaimg{
+    margin-left: 65% ;
+    margin-right: 6%;
+    position: relative;
+    top: -170px;     
 }
 .margincajitaimg{
-    margin-left: 70% ;
-    margin-right: 6%;
-    
+    margin-bottom: -100px;
 }
+   
+
 .marginParrafo1{
     margin-right: 50%;
-    padding-left: 2.5%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
     text-align: justify;
     float: left;
 }
 .marginParrafo2{
     margin-right: 15%;
     margin-left: 15%;
+    padding: 3%;
     text-align: justify;
     float: right;
 }
@@ -35,11 +46,26 @@
     font-family: sans-serif ;
 }
 .bgquienessomos{
-    background-color:rgb(242,222,242);
+    background-color:rgb(162, 164, 252);
 }
 .bgnuestroproducto{
-    background-color: rgb(236,217,245);
+    background-color: rgb(99, 96, 250);
 }
 .bgformulario{
-    background-color:rgb(237, 181, 228);
+    background-color:rgb(241, 187, 241);
+}
+.bglanding{
+    background-color: rgb(99, 96, 250);
+}
+.tamañofooter{
+    width: 1902px;
+    height: 300px;
+}
+
+.colorfooter{
+    background-color: #9f7fb1;
+}
+.mypiconos{
+    margin-left: 5px ;
+    
 }
